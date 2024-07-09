@@ -1,3 +1,6 @@
+## Demonstration Video
+https://drive.google.com/file/d/1KpLjURpOiY9Sh3XiprXOE5QFaZPi8P7s/view?usp=sharing
+
 # Hotel Booking Chatbot
 
 A conversational AI chatbot for hotel bookings, built with Express.js and React, powered by OpenAI's GPT model.
@@ -46,6 +49,3 @@ The server will run on `http://localhost:3001`.
 The React app will run on `http://localhost:3000`.
 
 3. Open your browser and navigate to `http://localhost:3000` to use the chatbot.
-
-## Demonstration Video
-https://drive.google.com/file/d/1KpLjURpOiY9Sh3XiprXOE5QFaZPi8P7s/view?usp=sharing
